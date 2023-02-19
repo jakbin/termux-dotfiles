@@ -8,6 +8,6 @@ if [ -f "$File" ]; then
 	echo "old zshrc moved to zshrc-backup.sh"
 fi
 
-url='https://raw.githubusercontent.com/jakbin/myzsh/main/termux/zshrc'
+url='https://raw.githubusercontent.com/jakbin/termux-dotfiles/main/termux/zshrc'
 wget -P /data/data/com.termux/files/usr/etc/ $url
 echo "zshrc file downloaded"
