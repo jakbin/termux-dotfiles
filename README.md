@@ -22,6 +22,9 @@ curl 'https://raw.githubusercontent.com/jakbin/termux-dotfiles/main/termux/insta
 wget 'https://raw.githubusercontent.com/jakbin/termux-dotfiles/main/termux/plugin-install.sh' && bash plugin-install.sh
 ```
 
+## Tutorial
+[Watch Here](https://youtu.be/r9QySVcm3Js)
+
 ## Screenshots
 
 
